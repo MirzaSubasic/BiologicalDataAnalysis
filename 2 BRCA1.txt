@@ -1,0 +1,26 @@
+ACCESSION	NM_007294
+ORGANISM	Homo sapiens
+DEFINITION	Homo sapiens BRCA1, DNA repair associated (BRCA1), transcript variant 1, mRNA.
+exon	1..213
+exon	214..312
+exon	313..366
+exon	367..444
+exon	445..533
+exon	534..673
+exon	674..779
+exon	780..825
+exon	826..902
+exon	903..4328
+exon	4329..4417
+exon	4418..4589
+exon	4590..4716
+exon	4717..4907
+exon	4908..5218
+exon	5219..5306
+exon	5307..5384
+exon	5385..5425
+exon	5426..5509
+exon	5510..5564
+exon	5565..5638
+exon	5639..5699
+exon	5700..7207
